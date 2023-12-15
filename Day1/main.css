@@ -1,0 +1,46 @@
+.main{
+    width: 50%;
+    height: 500px;
+    background-color: black;
+    padding: 10px;
+}
+.one{
+    width: 45%;
+    height: 25%;
+    background-color: aquamarine;
+    float: left;
+    margin: 10px;
+}
+.two{
+    width: 45%;
+    height: 25%;
+    background-color:blue;
+    float: left;
+    margin: 10px;
+}
+.three{
+    width: 45%;
+    height: 25%;
+    background-color: cornflowerblue;
+    float: left;
+    margin: 10px;
+}
+.four{
+    width: 45%;
+    height: 25%;
+    background-color: dimgrey;
+    float: left;
+    margin: 10px;
+}
+h1{
+    color: black;
+}
+p{
+    color: aliceblue;
+}
+h2{
+    color: brown;
+}
+p2{
+    color: gray;
+}
